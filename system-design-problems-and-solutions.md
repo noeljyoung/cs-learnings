@@ -50,3 +50,11 @@
 8. Slow database queries
 	- Use proper indexes
 	- Use sharding to horizontally scale
+
+# How to Improve API Performance
+
+1. Pagination
+2. Async Logging
+3. Caching
+4. Payload Compression
+5. Connection Pool
