@@ -10,3 +10,22 @@
 | n * log(n) | Quasilinear Time | Sorting operations                                           |
 | n^2        | Quadratic Time   | Every element has to be compared to every other element. The 'handshake problem'. |
 | 2^n        | Exponential Time | The work doubles each time the input is increased by 1.      |
+
+## Structures + Algorithms
+
+### Linear
+
+- Lists
+- Linked Lists
+- Stacks
+- Queues
+- Hash Maps
+- Binary Search
+
+### Non-Linear
+
+- Binary Trees
+- Heaps
+- Tries
+- Graphs
+- Undirected Graphs
